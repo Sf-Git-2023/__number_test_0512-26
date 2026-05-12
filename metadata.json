@@ -1,0 +1,6 @@
+{
+  "name": "猜數字遊戲",
+  "description": "這是一個使用 Vite、React 和 TypeScript 建立的猜數字遊戲。玩家需要在 1-100 之間猜出一個隨機數字。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
