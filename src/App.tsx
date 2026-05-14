@@ -63,7 +63,7 @@ export default function App() {
       >
         <div className="flex items-center gap-3 mb-6">
           <Target className="text-blue-500 w-8 h-8" />
-          <h1 className="text-3xl font-black text-slate-100 tracking-tight">量子猜數字</h1>
+          <h1 className="text-3xl font-black text-slate-100 tracking-tight">猜數字11:52</h1>
         </div>
 
         <div className="mb-6 p-4 rounded-xl bg-slate-800/50 border border-slate-700">
